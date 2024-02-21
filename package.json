@@ -1,0 +1,29 @@
+{
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-handlebars": "^7.1.2",
+    "nodemon": "^3.0.3"
+  },
+  "name": "myapp",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "nodemon src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thanhvtpt/nodejs_myapp.git"
+  },
+  "keywords": [
+    "MyApp",
+    "test"
+  ],
+  "author": "Thanhtt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thanhvtpt/nodejs_myapp/issues"
+  },
+  "homepage": "https://github.com/thanhvtpt/nodejs_myapp#readme",
+  "description": ""
+}
